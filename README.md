@@ -1,0 +1,4 @@
+cryptodollar
+============
+
+cryptoDOLLAR coin (cD)
